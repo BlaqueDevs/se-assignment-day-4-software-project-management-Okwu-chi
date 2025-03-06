@@ -19,10 +19,48 @@
   2. Frequent customer involvement
   3. Testing can be carried out before the complete development of a software.
   **Disadvantages of Agile Methodology**
-  1. 
+  1. It is difficult to estimate costs and timeline using this method.
+  2. It requires continuous feedbacks from stakeholders and users so if they are not available, progress can slow down.
+  3. It does not focus on detailed documentation which is useful for future references.
+     **Advantages of Waterfall Methodology**
+  1. It follows a sequential order making it easy for one to follow through.
+  2. It allows for cost and timelines to be properly estimated.
+  3. It allows for proper documentation to be done after each stage or phase.
+     **Disadvantages of Waterfall Methodology**
+  1. Once a phase is complete, going back to make changes is difficult and can be costly.
+  2. Users and stakeholders do not see the product on time. This can lead to expenses if there are  any mistakes.
+  3. If the requirements are not gotten right at the start of the project, the entire project can fail.
+     
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+  Agile works best for projects that require flexibility, continuous iteration, and user feedback, for dynamic and evolving projects. It is more beneficial than Waterfall when the following are required:
+      1. Software development apps where features are being added based on users feedbacks.
+      2. E-commerce websites like Jumia and Temu where features like payment options and personalized recommenadtions are frequently added.
+  Waterfall is better suited for projects with well-defined goals, strict regulations, or sequential steps that must be followed in order. It is most appropriate for the following:
+      1. In construction such as building a bridge where each phase (design, foundation, structure, finishing) must be completed before moving to the next.
+      2. Manufacturing and hardware development where design and materials must be finalized before production commences.
+      
+  ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+  Methods for ensuring quality assurance include:
+      1. establishing the requirements precisely at the beginning of the project to prevent misunderstanding.
+      2. setting of code guidelines to ensure consistency and maintainability.
+      3. carrying out of code reviews to check for issues and solve them.
+    It is important to maintain high stndards because:
+      1. it save cost and time in the long run.
+      2. it improves software reliability.
+      3. it brings about customer satisfaction and retention.
+      
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+  Project scope defines what a project will deliver, the tasks required, and the limitations or exclusions. A well-defined scope is essential for project success because it:
+  1. improves resource allocation.
+  2. makes it easy for the goals of a project to be understandable.
+  3. helps to create realistic schedules and timelines.
+  4. helps to identify potential risks early and tackle them.
+ A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, manageable tasks. It breaks down complex projects into structured components, making it easier to plan, execute, and track progress.
+ It is useful because it:
+   1. ensures tasks are completed on time and prevents last-minute rushes.
+   2. helps assign team members, budget, and materials efficiently.
+   3. ensures everyone understands their responsibilities and deadlines.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
